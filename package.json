@@ -1,0 +1,33 @@
+{
+  "name": "pittcsc-theme",
+  "displayName": "PittCSC Theme",
+  "description": "A Visual Studio Code theme for the Pitt Computer Science Club",
+  "version": "0.0.1",
+  "publisher": "pittcsc",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "pittcsc.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "PittCSC Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pittcsc-theme-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "package": "vsce package"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vscode/vsce": "^3.3.0"
+  }
+}
