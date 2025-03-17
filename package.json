@@ -2,7 +2,7 @@
   "name": "pittcsc-theme",
   "displayName": "PittCSC",
   "description": "A VSCode theme for University of Pittsburgh Computer Science Club",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "QuentinRomeroLauro",
   "engines": {
     "vscode": "^1.60.0"
@@ -24,7 +24,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "package": "vsce package"
   },
-  "keywords": ["theme", "dark theme", "pitt", "pittsburgh", "university"],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "pitt",
+    "pittsburgh",
+    "university"
+  ],
   "author": "Quentin Romero Lauro",
   "license": "ISC",
   "devDependencies": {
