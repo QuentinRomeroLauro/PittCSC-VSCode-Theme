@@ -1,9 +1,9 @@
 {
   "name": "pittcsc-theme",
-  "displayName": "PittCSC Theme",
-  "description": "A Visual Studio Code theme for the Pitt Computer Science Club",
-  "version": "0.0.1",
-  "publisher": "pittcsc",
+  "displayName": "PittCSC",
+  "description": "A VSCode theme for University of Pittsburgh Computer Science Club",
+  "version": "0.1.0",
+  "publisher": "QuentinRomeroLauro",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "PittCSC Theme",
+        "label": "PittCSC",
         "uiTheme": "vs-dark",
         "path": "./themes/pittcsc-theme-color-theme.json"
       }
@@ -24,10 +24,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "package": "vsce package"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["theme", "dark theme", "pitt", "pittsburgh", "university"],
+  "author": "Quentin Romero Lauro",
   "license": "ISC",
   "devDependencies": {
     "@vscode/vsce": "^3.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QuentinRomeroLauro/PittCSC-VSCode-Theme.git"
   }
 }

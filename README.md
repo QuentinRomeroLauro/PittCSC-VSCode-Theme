@@ -2,6 +2,8 @@
 
 A VS Code theme for the Pitt Computer Science Club 😎
 
+![PittCSC Theme in Action](theme_in_action.png)
+
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
