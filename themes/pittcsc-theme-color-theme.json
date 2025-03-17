@@ -315,6 +315,68 @@
       "settings": {
         "foreground": "#E5C875"
       }
+    },
+    {
+      "name": "HTML Tag names",
+      "scope": [
+        "entity.name.tag",
+        "meta.tag.sgml"
+      ],
+      "settings": {
+        "foreground": "#61AFEF",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "HTML Attribute names",
+      "scope": [
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "#98C379",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "HTML Attribute values",
+      "scope": [
+        "string.quoted.double.html",
+        "string.quoted.single.html"
+      ],
+      "settings": {
+        "foreground": "#56B6C2"
+      }
+    },
+    {
+      "name": "HTML Punctuation",
+      "scope": [
+        "punctuation.definition.tag",
+        "punctuation.definition.string.begin.html",
+        "punctuation.definition.string.end.html"
+      ],
+      "settings": {
+        "foreground": "#E5C87590"
+      }
+    },
+    {
+      "name": "HTML Text",
+      "scope": [
+        "text.html"
+      ],
+      "settings": {
+        "foreground": "#F8F8F2"
+      }
+    },
+    {
+      "name": "HTML Doctype",
+      "scope": [
+        "meta.tag.metadata.doctype.html",
+        "entity.name.tag.doctype.html"
+      ],
+      "settings": {
+        "foreground": "#C678DD",
+        "fontStyle": "italic"
+      }
     }
   ]
 } 

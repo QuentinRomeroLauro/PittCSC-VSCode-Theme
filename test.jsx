@@ -1,0 +1,51 @@
+import React from 'react';
+
+const PittCSCTheme = () => {
+    return (
+        <div>
+            <header>
+                <h1>Welcome to PittCSC Theme</h1>
+                <nav>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#installation">Installation</a></li>
+                        <li><a href="#feedback">Feedback</a></li>
+                    </ul>
+                </nav>
+            </header>
+            <main>
+                <section id="home">
+                    <h2>Home</h2>
+                    <p>Welcome to the official VSCode theme for the University of Pittsburgh Computer Science Club! 😎</p>
+                    <img src="theme_in_action.png" alt="PittCSC Theme in Action" />
+                </section>
+                <section id="about">
+                    <h2>About</h2>
+                    <p>This theme is designed to provide a consistent and visually appealing coding experience for members of the PittCSC.</p>
+                </section>
+                <section id="installation">
+                    <h2>Installation</h2>
+                    <ol>
+                        <li>Open <strong>Extensions</strong> sidebar panel in VS Code (<code>Ctrl+Shift+X</code> or <code>Cmd+Shift+X</code>)</li>
+                        <li>Search for <strong>PittCSC</strong></li>
+                        <li>Click <strong>Install</strong></li>
+                        <li>Click <strong>Reload</strong> to reload VS Code</li>
+                        <li>From the menu bar click: Code &gt; Preferences &gt; Color Theme &gt; <strong>PittCSC Theme</strong></li>
+                    </ol>
+                    <p>Alternatively, download the theme from the VSCode Extension marketplace <a href="https://marketplace.visualstudio.com/items?itemName=QuentinRomeroLauro.pittcsc-theme">here</a>.</p>
+                </section>
+                <section id="feedback">
+                    <h2>Feedback</h2>
+                    <p>If you have suggestions or issues, please open an issue on the <a href="https://github.com/QuentinRomeroLauro/PittCSC-VSCode-Theme">GitHub repository</a>.</p>
+                    <p><strong>Enjoy coding with PittCSC pride!</strong></p>
+                </section>
+            </main>
+            <footer>
+                <p>&copy; 2021 Quentin Romero Lauro. All rights reserved.</p>
+            </footer>
+        </div>
+    );
+};
+
+export default PittCSCTheme;
