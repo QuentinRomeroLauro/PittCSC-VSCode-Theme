@@ -258,7 +258,7 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#2E3756",
+        "foreground": "#D0D0D0",
         "fontStyle": "bold"
       }
     },
