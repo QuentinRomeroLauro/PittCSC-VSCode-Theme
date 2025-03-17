@@ -14,6 +14,6 @@ A VS Code theme for the Pitt Computer Science Club 😎
 
 ## Feedback
 
-If you have suggestions or issues, please open an issue on the [GitHub repository](https://github.com/pittcsc/vscode-theme).
+If you have suggestions or issues, please open an issue on the [GitHub repository](https://github.com/QuentinRomeroLauro/PittCSC-VSCode-Theme).
 
 **Enjoy coding with Pitt CS pride!** 
