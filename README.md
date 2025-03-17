@@ -1,6 +1,6 @@
-# PittCSC Theme
+# PittCSC - The Official VSCode Theme of PittCSC
 
-A VS Code theme for the Pitt Computer Science Club 😎
+Welcome to the official VSCode theme for the University of Pittsburgh Computer Science Club! 😎
 
 ![PittCSC Theme in Action](theme_in_action.png)
 
@@ -12,8 +12,11 @@ A VS Code theme for the Pitt Computer Science Club 😎
 4. Click **Reload** to reload VS Code
 5. From the menu bar click: Code > Preferences > Color Theme > **PittCSC Theme**
 
+Alternatively, download the theme from the VSCode Extension marketplace [here](https://marketplace.visualstudio.com/items?itemName=QuentinRomeroLauro.pittcsc-theme).
+
+
 ## Feedback
 
 If you have suggestions or issues, please open an issue on the [GitHub repository](https://github.com/QuentinRomeroLauro/PittCSC-VSCode-Theme).
 
-**Enjoy coding with Pitt CS pride!** 
+**Enjoy coding with PittCSC pride!** 
